@@ -59,5 +59,5 @@ for n in range(0,19):
 
 
     
-m.save("heatmap.html")
+m.save("index.html")
 
